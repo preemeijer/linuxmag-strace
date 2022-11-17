@@ -1,2 +1,2 @@
-# Linux Magazine 5 (2022)
-Ondersteunende code voor het artikel over strace.
+# Linux Magazine - november 2022
+Ondersteunende code artikel strace introductie.
